@@ -1,3 +1,3 @@
 # ToyProject
 
-HTML, CSS, JS, React를 이용하여 만든 ToyProject 🎮🧸🤖👾
+간단한 메모기능을 하는 메모장 구현 📝✏️
